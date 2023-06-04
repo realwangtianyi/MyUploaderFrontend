@@ -39,4 +39,8 @@ rm(path.join(config.build.assetsRoot, config.build.assetsSubDirectory), err => {
     ))
   })
 })
-process.exit(0)
+setTimeout(() => {
+  // 200 秒之后运行。
+  process.exit(0)
+}, 200000)
+
