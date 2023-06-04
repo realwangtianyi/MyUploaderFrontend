@@ -2,7 +2,7 @@
   <div id="app">
     <el-container class="my-container">
       <el-header class="my-header">
-        <span style="color: aliceblue;font-size: x-large">MyUploader</span>
+        <span style="color: aliceblue;font-size: x-large">欢迎你，水泥封心不谈恋爱</span>
       </el-header>
       <el-container>
         <el-aside>
