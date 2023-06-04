@@ -5,7 +5,7 @@
         <span style="color: aliceblue;font-size: x-large">欢迎你，水泥封心不谈恋爱</span>
       </el-header>
       <el-container>
-        <el-aside>
+        <el-aside style="width:auto">
           <el-menu :default-active="defaultActive" style="height: 100%">
             <el-menu-item index="singleFileUpload" @click="redirectUrl('/singleFileUpload')">
               <i class="el-icon-menu"></i>
